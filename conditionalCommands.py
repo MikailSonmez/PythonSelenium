@@ -1,4 +1,3 @@
-import ele as ele
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
