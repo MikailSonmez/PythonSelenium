@@ -43,3 +43,4 @@ class TestHRM:
                           attachment_type=AttachmentType.PNG)
             self.driver.close()
             assert False
+
