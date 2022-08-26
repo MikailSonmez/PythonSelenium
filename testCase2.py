@@ -15,6 +15,6 @@ class SearchEnginesTest (unittest.TestCase):
         print("Title of the page is :" + self.driver.title)
 
 if __name__ == "__main__":
-    unittest.main
+    unittest.main()
 
 
